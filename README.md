@@ -27,16 +27,9 @@ In this rapidly evolving digital landscape, understanding how to secure IT syste
 - 🚫 Understanding what a security control is and what forms they take.
 - 🚫 Understanding what zero trust is and why this is important in modern cyber security.
 
-[![Project Overview Video](images/video_placeholder.png)](https://youtu.be/your-video-id)
-
 As I progress through my cybersecurity journey, I'll be updating this repository with new projects, learnings, and resources. After exploring the content here, you might want to check out some additional learning resources:
 
-- [Cybersecurity Fundamentals Course](https://www.coursera.org/specializations/intro-cyber-security)
-- [SANS Cyber Security Training](https://www.sans.org/cyber-security-courses/)
-
-Ultimately, my goal is to work towards professional certifications such as CompTIA Security+ or Certified Information Systems Security Professional (CISSP).
-
-> 💁 I'm always open to feedback, suggestions, or collaboration opportunities. If you have any insights or resources to share, please feel free to reach out or open an issue!
+Ultimately, my goal is to work towards attaining an entry level position as a cybersecurity consultant.
 
 ## Repository Structure 📁
 
@@ -58,17 +51,12 @@ Throughout my journey, I've found these resources particularly helpful:
 - [TryHackMe](https://tryhackme.com/) - Learn cyber security through hands-on exercises
 - [OWASP](https://owasp.org/) - Web application security resources
 - [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation
+- [LinkedIn](https://www.linkedin.com/in/jqcvsc/) - I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and mentors, feel free to reach out.
 
-# 🤝 Connect With Me
-
-## 📝 I regularly write articles on  <a href="https://dev.to/https://dev.to/jqcvsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jqcvsc" height="30" width="40" /></a> <a href="https://medium.com/@xybercoyote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xybercoyote" height="30" width="40" /></a> <a href="https://hackernoon.com/u/xybercoyote/" target="blank"><img align="center" src="https://app.hackernoon.com/hn-green-logo-no-shadow.png" alt="hackernoon" height="35" width="40" />
-</a>
-
-I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and mentors. Feel free to reach out through:
-
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Handle)
-- [Personal Blog](Your Blog URL if you have one)
+📝 I regularly write articles on
+<a href="https://dev.to/https://dev.to/jqcvsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jqcvsc" height="30" width="40" /></a>
+<a href="https://medium.com/@xybercoyote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xybercoyote" height="30" width="40" /></a> 
+<a href="https://hackernoon.com/u/xybercoyote/" target="blank"><img align="center" src="https://app.hackernoon.com/hn-green-logo-no-shadow.png" alt="hackernoon" height="35" width="40" /></a>
 
 ---
 
