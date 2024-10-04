@@ -38,15 +38,22 @@ Ultimately, my goal is to work towards attaining an entry level position as a cy
 
 ## Repository Structure 📁
 
-| **Section**                   | **Description**                                                          | **Key Topics**                                                           |
-|-------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [Fundamentals](./fundamentals)| Basic cybersecurity concepts and principles                               | CIA Triad, Risk Management, Cybersecurity Framework                      |
-| [Network Security](./network) | Projects and studies related to securing networks                         | Firewalls, Intrusion Detection, VPNs                                     |
-| [IAM](./iam)                  | Identity and Access Management explorations                               | Authentication Methods, Access Control Models, SSO                       |
-| [Cryptography](./crypto)      | Understanding and implementing cryptographic concepts                     | Encryption Algorithms, Public Key Infrastructure, Hashing                |
-| [Tools](./tools)              | Hands-on experience with various cybersecurity tools                      | Wireshark, Nmap, Metasploit (for educational purposes only)              |
-| [Projects](./projects)        | Comprehensive cybersecurity projects and case studies                     | Vulnerability Assessments, Incident Response Simulations, Security Audits |
-| [Resources](./resources)      | Curated list of learning materials, books, and online courses             | Recommended Readings, Online Courses, Cybersecurity Certifications       |
+| **Section**                   | **Description**                                                          | **Key Topics**                                                           | **Repositories** |
+|-------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------|
+| [Fundamentals](./fundamentals)| Basic cybersecurity concepts and principles                               | CIA Triad, Risk Management, Cybersecurity Framework                      | - Cybersecurity-SQL-Lab<br>- Secure-Pass-Sentinel |
+| [Network Security](./network) | Projects and studies related to securing networks                         | Firewalls, Intrusion Detection, VPNs                                     | - parrot-os-airgeddon-Wi-Fi-cracking<br>- Guardian-IDS<br>- packet-sniffer-dashboard |
+| [IAM](./iam)                  | Identity and Access Management explorations                               | Authentication Methods, Access Control Models, SSO                       | *(No specific repositories yet)* |
+| [Cryptography](./crypto)      | Understanding and implementing cryptographic concepts                     | Encryption Algorithms, Public Key Infrastructure, Hashing                | - Cipher-Guard |
+| [Tools](./tools)              | Hands-on experience with various cybersecurity tools                      | Wireshark, Nmap, Metasploit (for educational purposes only)              | - DSVW (Damn Small Vulnerable Web) |
+| [Projects](./projects)        | Comprehensive cybersecurity projects and case studies                     | Vulnerability Assessments, Incident Response Simulations, Security Audits | - bank-of-anthos-sql-vulnerable-cloud-cybersecurity<br>- DVWA-Cloud-Parrot-Lab<br>- Cloud-Security-Web-App-Challenge<br>- bph-intel-dashboard |
+
+### Suggested New Categories
+
+| **Section**                   | **Description**                                                          | **Key Topics**                                                           | **Repositories** |
+|-------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------|
+| [Cloud Security](./cloud)     | Projects focusing on securing cloud infrastructure and applications       | Cloud Platforms, Serverless Security, Cloud Monitoring                   | - cloud-server-log-analysis-lab<br>- Cloud-Security-Web-App-Challenge<br>- packet-sniffer-dashboard |
+| [Web Application Security](./web-app) | Projects related to securing web applications                    | Input Validation, Authentication, Session Management                     | - DSVW<br>- Secure-Pass-Sentinel<br>- DVWA-Cloud-Parrot-Lab |
+| [Threat Intelligence](./threat-intel) | Projects for gathering and analyzing threat information          | Threat Feeds, Indicators of Compromise, Threat Analysis                  | - bph-intel-dashboard |
 
 ## 🎒 Recommended Learning Resources
 
