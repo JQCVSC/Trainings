@@ -48,18 +48,6 @@ Ultimately, my goal is to work towards professional certifications such as CompT
 | [Projects](./projects)        | Comprehensive cybersecurity projects and case studies                     | Vulnerability Assessments, Incident Response Simulations, Security Audits |
 | [Resources](./resources)      | Curated list of learning materials, books, and online courses             | Recommended Readings, Online Courses, Cybersecurity Certifications       |
 
-## Skills Progress 📊
-
-This section tracks my progress in various cybersecurity skills:
-
-- Network Security: ★★★☆☆
-- Cryptography: ★★☆☆☆
-- Identity and Access Management: ★★★★☆
-- Security Operations: ★★★☆☆
-- Application Security: ★★☆☆☆
-
-(I'll update this section regularly as I develop new skills and improve existing ones.)
-
 ## 🎒 Recommended Learning Resources
 
 Throughout my journey, I've found these resources particularly helpful:
