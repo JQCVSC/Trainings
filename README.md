@@ -12,18 +12,20 @@ In this rapidly evolving digital landscape, understanding how to secure IT syste
 
 ## What this repository covers 📚
 
-- 🔐 Fundamental cybersecurity concepts including the CIA triad, risk assessment, and threat analysis
-- 🛡️ Practical applications of security controls and best practices
-- 🌐 Exploration of network security principles and implementations
-- 🔑 Deep dives into identity and access management
-- 🔧 Hands-on projects with various cybersecurity tools and techniques
-- 📊 Analysis of real-world security scenarios and case studies
+- 🔐 Fundamental cybersecurity concepts.
+- 💉 Specific exploits or hacking techniques.
+- 🛡️ Practical applications of security controls and best practices.
+- 🌐 Exploration of network security principles and implementations.
+- 🔑 Proprietary or vendor-specific tool tutorials.
+- 🔧 Hands-on projects with various cybersecurity tools and techniques.
+- 📊 Analysis of real-world security scenarios and case studies.
 
 ## What this repository does not cover 🙅‍♂️
 
-- 🚫 Specific exploits or hacking techniques
-- 🚫 Proprietary or vendor-specific tool tutorials
 - 🚫 Sensitive information or actual security vulnerabilities
+- 🚫 Basic cyber security concepts such as the CIA triad, the differences between risks, threats, etc,
+- 🚫 Understanding what a security control is and what forms they take.
+- 🚫 Understanding what zero trust is and why this is important in modern cyber security.
 
 [![Project Overview Video](images/video_placeholder.png)](https://youtu.be/your-video-id)
 
@@ -57,7 +59,10 @@ Throughout my journey, I've found these resources particularly helpful:
 - [OWASP](https://owasp.org/) - Web application security resources
 - [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
+
+## 📝 I regularly write articles on <a href="https://dev.to/https://dev.to/jqcvsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jqcvsc" height="30" width="40" /></a> <a href="https://medium.com/@xybercoyote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xybercoyote" height="30" width="40" /></a> <a href="https://hackernoon.com/u/xybercoyote/" target="blank"><img align="center" src="https://app.hackernoon.com/hn-green-logo-no-shadow.png" alt="hackernoon" height="35" width="40" />
+</a>
 
 I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and mentors. Feel free to reach out through:
 
