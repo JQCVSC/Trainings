@@ -8,7 +8,7 @@
 
 In this rapidly evolving digital landscape, understanding how to secure IT systems is more critical than ever. This repository is designed to showcase my cybersecurity learning journey, projects, and skills development. It serves as a comprehensive collection of my hands-on experiences, theoretical knowledge, and practical applications in the field of cybersecurity.
 
-![LockGreenGIF](https://github.com/user-attachments/assets/9eb63cf0-a62c-4ab9-94cf-ad715bad1fa9)
+![jqcvsc_Trainings](https://github.com/user-attachments/assets/47c9663f-39b9-4692-a7fd-50d5dc80f937)
 
 
 What this repository covers 📚
