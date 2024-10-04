@@ -1,22 +1,15 @@
 ---
 layout: home
-title: Welcome to My Cybersecurity Training Hub
+title: My Cybersecurity Journey – Training and Skills Showcase
 ---
-
-[![GitHub License](https://img.shields.io/github/license/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/blob/main/LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/pulls)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/network/members)
 
 # 🚀 My Cybersecurity Journey – Training and Skills Showcase
 
-In this rapidly evolving digital landscape, understanding how to secure IT systems is more critical than ever. This repository is designed to showcase my cybersecurity learning journey, projects, and skills development. It serves as a comprehensive collection of my hands-on experiences, theoretical knowledge, and practical applications in the field of cybersecurity.
+In this rapidly evolving digital landscape, understanding how to secure IT systems is more critical than ever. This site is designed to showcase my cybersecurity learning journey, projects, and skills development. It serves as a comprehensive collection of my hands-on experiences, theoretical knowledge, and practical applications in the field of cybersecurity.
 
 ![jqcvsc_Trainings](https://github.com/user-attachments/assets/47c9663f-39b9-4692-a7fd-50d5dc80f937)
 
-
-What this repository covers 📚
+## What this site covers 📚
 
 - 🔐 Fundamental cybersecurity concepts including the CIA triad, risk assessment, and threat analysis
 - 🛡️ Practical applications of security controls and best practices
@@ -25,7 +18,7 @@ What this repository covers 📚
 - 🔧 Hands-on projects with various cybersecurity tools and techniques
 - 📊 Analysis of real-world security scenarios and case studies
 
-What this repository does not cover 🙅‍♂️
+## What this site does not cover 🙅‍♂️
 
 - 🚫 Specific exploits or hacking techniques
 - 🚫 Proprietary or vendor-specific tool tutorials
@@ -33,26 +26,26 @@ What this repository does not cover 🙅‍♂️
 
 [![Project Overview Video](images/video_placeholder.png)](https://youtu.be/your-video-id)
 
-As I progress through my cybersecurity journey, I'll be updating this repository with new projects, learnings, and resources. After exploring the content here, you might want to check out some additional learning resources:
+As I progress through my cybersecurity journey, I'll be updating this site with new projects, learnings, and resources. After exploring the content here, you might want to check out some additional learning resources:
 
 - [Cybersecurity Fundamentals Course](https://www.coursera.org/specializations/intro-cyber-security)
 - [SANS Cyber Security Training](https://www.sans.org/cyber-security-courses/)
 
 Ultimately, my goal is to work towards professional certifications such as CompTIA Security+ or Certified Information Systems Security Professional (CISSP).
 
-> 💁 I'm always open to feedback, suggestions, or collaboration opportunities. If you have any insights or resources to share, please feel free to reach out or open an issue!
+> 💁 I'm always open to feedback, suggestions, or collaboration opportunities. If you have any insights or resources to share, please feel free to reach out or open an issue on the GitHub repository!
 
-## Repository Structure 📁
+## Site Structure 📁
 
 | **Section**                   | **Description**                                                          | **Key Topics**                                                           |
 |-------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [Fundamentals](./fundamentals)| Basic cybersecurity concepts and principles                               | CIA Triad, Risk Management, Cybersecurity Framework                      |
-| [Network Security](./network) | Projects and studies related to securing networks                         | Firewalls, Intrusion Detection, VPNs                                     |
-| [IAM](./iam)                  | Identity and Access Management explorations                               | Authentication Methods, Access Control Models, SSO                       |
-| [Cryptography](./crypto)      | Understanding and implementing cryptographic concepts                     | Encryption Algorithms, Public Key Infrastructure, Hashing                |
-| [Tools](./tools)              | Hands-on experience with various cybersecurity tools                      | Wireshark, Nmap, Metasploit (for educational purposes only)              |
-| [Projects](./projects)        | Comprehensive cybersecurity projects and case studies                     | Vulnerability Assessments, Incident Response Simulations, Security Audits |
-| [Resources](./resources)      | Curated list of learning materials, books, and online courses             | Recommended Readings, Online Courses, Cybersecurity Certifications       |
+| [Fundamentals](/fundamentals) | Basic cybersecurity concepts and principles                               | CIA Triad, Risk Management, Cybersecurity Framework                      |
+| [Network Security](/network)  | Projects and studies related to securing networks                         | Firewalls, Intrusion Detection, VPNs                                     |
+| [IAM](/iam)                   | Identity and Access Management explorations                               | Authentication Methods, Access Control Models, SSO                       |
+| [Cryptography](/crypto)       | Understanding and implementing cryptographic concepts                     | Encryption Algorithms, Public Key Infrastructure, Hashing                |
+| [Tools](/tools)               | Hands-on experience with various cybersecurity tools                      | Wireshark, Nmap, Metasploit (for educational purposes only)              |
+| [Projects](/projects)         | Comprehensive cybersecurity projects and case studies                     | Vulnerability Assessments, Incident Response Simulations, Security Audits |
+| [Resources](/resources)       | Curated list of learning materials, books, and online courses             | Recommended Readings, Online Courses, Cybersecurity Certifications       |
 
 ## Skills Progress 📊
 
@@ -85,12 +78,4 @@ I'm always eager to connect with fellow cybersecurity enthusiasts, professionals
 
 ---
 
-This repository is continually updated as I progress in my cybersecurity journey. Star it to stay updated with my latest projects and learnings!
-
-
-I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and mentors. Feel free to reach out through [LinkedIn](Your LinkedIn Profile) or [Twitter](Your Twitter Handle).
-
-
-*Last updated: [Current Date]*
-
-Remember to check back regularly for updates on my latest projects and insights into the ever-evolving world of cybersecurity!
+This site is continually updated as I progress in my cybersecurity journey. Bookmark it to stay updated with my latest projects and learnings!
