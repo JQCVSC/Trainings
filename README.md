@@ -4,7 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/network/members)
 
-# <a href="https://github.com/JQCVSC/Trainings" target="_blank"><img src="https://github.com/user-attachments/assets/0f12a6e4-83ab-4b0e-9226-fb3a219382dd" alt="Cybersecurity Lock Icon" height="30" width="40" align="top" /></a> My Cybersecurity Journey – Training and Skills Showcase
+# <a href="https://github.com/JQCVSC/Trainings" target="_blank"><img src="https://github.com/user-attachments/assets/0f12a6e4-83ab-4b0e-9226-fb3a219382dd" alt="Cybersecurity Lock Icon" height="30" width="40" align="top" /></a> My Cybersecurity Journey
 
 In this rapidly evolving digital landscape, understanding how to secure IT systems is more critical than ever. This repository is designed to showcase my cybersecurity learning journey, projects, and skills development. It serves as a comprehensive collection of my hands-on experiences, theoretical knowledge, and practical applications in the field of cybersecurity.
 
