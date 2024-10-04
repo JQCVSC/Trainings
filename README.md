@@ -1,8 +1,8 @@
-[![GitHub License](https://img.shields.io/github/license/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/blob/main/LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/pulls)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/network/members)
+[![GitHub License](https://img.shields.io/github/license/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/blob/main/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/network/members)
 
 # 🚀 My Cybersecurity Journey – Training and Skills Showcase
 
