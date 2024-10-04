@@ -4,7 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/network/members)
 
-## <a href="https://github.com/JQCVSC/Trainings" target="_blank"><img src="https://github.com/user-attachments/assets/0f12a6e4-83ab-4b0e-9226-fb3a219382dd" alt="Cybersecurity Lock Icon" height="35" width="40" align="top" /></a> My Cybersecurity Journey – Training and Skills Showcase
+# <a href="https://github.com/JQCVSC/Trainings" target="_blank"><img src="https://github.com/user-attachments/assets/0f12a6e4-83ab-4b0e-9226-fb3a219382dd" alt="Cybersecurity Lock Icon" height="35" width="40" align="top" /></a> My Cybersecurity Journey – Training and Skills Showcase
 
 In this rapidly evolving digital landscape, understanding how to secure IT systems is more critical than ever. This repository is designed to showcase my cybersecurity learning journey, projects, and skills development. It serves as a comprehensive collection of my hands-on experiences, theoretical knowledge, and practical applications in the field of cybersecurity.
 
@@ -17,20 +17,25 @@ In this rapidly evolving digital landscape, understanding how to secure IT syste
 
 ## What this repository covers 📚
 
-- 🔐 Fundamental cybersecurity concepts.
-- 💉 Specific exploits or hacking techniques.
-- 🛡️ Practical applications of security controls and best practices.
-- 🌐 Exploration of network security principles and implementations.
-- 🔑 Proprietary or vendor-specific tool tutorials.
-- 🔧 Hands-on projects with various cybersecurity tools and techniques.
-- 📊 Analysis of real-world security scenarios and case studies.
+* 🔐 Fundamental cybersecurity concepts and principles (CIA Triad, Risk Management, Cybersecurity Framework)
+* 🛡️ Network security principles and implementations (Firewalls, Intrusion Detection, VPNs)
+* 🔑 Identity and Access Management (Authentication Methods, Access Control Models, SSO)
+* 🔒 Cryptographic concepts and implementations (Encryption Algorithms, Public Key Infrastructure, Hashing)
+* 🔧 Hands-on experience with various cybersecurity tools (Wireshark, Nmap, Metasploit for educational purposes)
+* 📊 Comprehensive cybersecurity projects and case studies (Vulnerability Assessments, Incident Response Simulations, Security Audits)
+* ☁️ Cloud security practices and implementations (Cloud Platforms, Serverless Security, Cloud Monitoring)
+* 🌐 Web application security techniques (Input Validation, Authentication, Session Management)
+* 🕵️ Threat intelligence gathering and analysis (Threat Feeds, Indicators of Compromise, Threat Analysis)
+* 📚 Curated cybersecurity learning resources and materials
 
 ## What this repository does not cover 🙅‍♂️
 
-- 🚫 Sensitive information or actual security vulnerabilities
-- 🚫 Basic cyber security concepts such as the CIA triad, the differences between risks, threats, etc,
-- 🚫 Understanding what a security control is and what forms they take.
-- 🚫 Understanding what zero trust is and why this is important in modern cyber security.
+* 🚫 Malicious hacking techniques or illegal activities
+* 🚫 Specific exploits or vulnerabilities in active systems
+* 🚫 Proprietary or vendor-specific tool tutorials (focus is on open-source and general concepts)
+* 🚫 Sensitive information or actual security vulnerabilities of organizations
+* 🚫 Personal or confidential data related to security assessments
+* 🚫 Advanced topics beyond the scope of foundational and intermediate cybersecurity knowledge
 
 As I progress through my cybersecurity journey, I'll be updating this repository with new projects, learnings, and resources. After exploring the content here, you might want to check out some additional learning resources:
 
