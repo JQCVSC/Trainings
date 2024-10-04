@@ -1,0 +1,36 @@
+# Site settings
+title: My Cybersecurity Training and Skills
+description: A comprehensive collection of cybersecurity learning projects and skills
+author: Your Name
+email: your.email@example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Social media profiles - Feel free to add other relevant ones
+github_username:  your-github-username
+linkedin_username: your-linkedin-profile
+twitter_username: your-twitter-handle
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  projects:
+    output: true
+  skills:
+    output: true
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
