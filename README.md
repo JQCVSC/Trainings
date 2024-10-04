@@ -10,8 +10,7 @@ In this rapidly evolving digital landscape, understanding how to secure IT syste
 
 ![jqcvsc_Trainings](https://github.com/user-attachments/assets/47c9663f-39b9-4692-a7fd-50d5dc80f937)
 
-
-What this repository covers 📚
+## What this repository covers 📚
 
 - 🔐 Fundamental cybersecurity concepts including the CIA triad, risk assessment, and threat analysis
 - 🛡️ Practical applications of security controls and best practices
@@ -20,7 +19,7 @@ What this repository covers 📚
 - 🔧 Hands-on projects with various cybersecurity tools and techniques
 - 📊 Analysis of real-world security scenarios and case studies
 
-What this repository does not cover 🙅‍♂️
+## What this repository does not cover 🙅‍♂️
 
 - 🚫 Specific exploits or hacking techniques
 - 🚫 Proprietary or vendor-specific tool tutorials
