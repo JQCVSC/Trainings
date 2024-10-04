@@ -4,11 +4,16 @@
 [![GitHub Stars](https://img.shields.io/github/stars/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/JQCVSC/Trainings)](https://github.com/JQCVSC/Trainings/network/members)
 
-# 🚀 My Cybersecurity Journey – Training and Skills Showcase
+<a href="https://github.com/JQCVSC/Trainings" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/0f12a6e4-83ab-4b0e-9226-fb3a219382dd" alt="Cybersecurity Lock Icon" height="35" width="40" /></a> My Cybersecurity Journey – Training and Skills Showcase
 
 In this rapidly evolving digital landscape, understanding how to secure IT systems is more critical than ever. This repository is designed to showcase my cybersecurity learning journey, projects, and skills development. It serves as a comprehensive collection of my hands-on experiences, theoretical knowledge, and practical applications in the field of cybersecurity.
 
 ![jqcvsc_Trainings](https://github.com/user-attachments/assets/47c9663f-39b9-4692-a7fd-50d5dc80f937)
+
+📝 I regularly write articles on 
+<a href="https://dev.to/https://dev.to/jqcvsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jqcvsc" height="35" width="40" /></a>
+<a href="https://hackernoon.com/u/xybercoyote/" target="blank"><img align="center" src="https://app.hackernoon.com/hn-green-logo-no-shadow.png" alt="hackernoon" height="35" width="40" /></a>
+<a href="https://medium.com/@xybercoyote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xybercoyote" height="35" width="40" /></a>
 
 ## What this repository covers 📚
 
@@ -53,10 +58,7 @@ Throughout my journey, I've found these resources particularly helpful:
 - [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation
 - [LinkedIn](https://www.linkedin.com/in/jqcvsc/) - I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and mentors, feel free to reach out.
 
-📝 I regularly write articles on
-<a href="https://dev.to/https://dev.to/jqcvsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jqcvsc" height="30" width="40" /></a>
-<a href="https://medium.com/@xybercoyote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xybercoyote" height="30" width="40" /></a> 
-<a href="https://hackernoon.com/u/xybercoyote/" target="blank"><img align="center" src="https://app.hackernoon.com/hn-green-logo-no-shadow.png" alt="hackernoon" height="35" width="40" /></a>
+
 
 ---
 
