@@ -7,6 +7,8 @@ title: Welcome to My Cybersecurity Training Hub
 
 Welcome to my comprehensive collection of cybersecurity learning projects, resources, and skills development journey. This hub is designed to showcase my growth in the field of cybersecurity and serve as a resource for others on a similar path.
 
+![jqcvsctranings](https://github.com/user-attachments/assets/e6ae94a1-f162-4903-b1da-9f43c9cb13d6)
+
 ## 📚 What This Site Covers
 
 - 🔐 **Fundamental Concepts**: Core principles of cybersecurity
@@ -35,7 +37,6 @@ Track my journey from cybersecurity novice to professional. This site documents 
 
 I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and mentors. Feel free to reach out through [LinkedIn](Your LinkedIn Profile) or [Twitter](Your Twitter Handle).
 
----
 
 *Last updated: [Current Date]*
 
