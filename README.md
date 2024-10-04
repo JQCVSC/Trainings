@@ -61,7 +61,7 @@ Throughout my journey, I've found these resources particularly helpful:
 
 # 🤝 Connect With Me
 
-## 📝 I regularly write articles on <a href="https://dev.to/https://dev.to/jqcvsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jqcvsc" height="30" width="40" /></a> <a href="https://medium.com/@xybercoyote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xybercoyote" height="30" width="40" /></a> <a href="https://hackernoon.com/u/xybercoyote/" target="blank"><img align="center" src="https://app.hackernoon.com/hn-green-logo-no-shadow.png" alt="hackernoon" height="35" width="40" />
+## 📝 I regularly write articles on  <a href="https://dev.to/https://dev.to/jqcvsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jqcvsc" height="30" width="40" /></a> <a href="https://medium.com/@xybercoyote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xybercoyote" height="30" width="40" /></a> <a href="https://hackernoon.com/u/xybercoyote/" target="blank"><img align="center" src="https://app.hackernoon.com/hn-green-logo-no-shadow.png" alt="hackernoon" height="35" width="40" />
 </a>
 
 I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and mentors. Feel free to reach out through:
